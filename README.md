@@ -1,27 +1,31 @@
 # Build SARA web app
 
-#### `landing page`
-
 <p align="center">
-    <img alt="home" src="https://res.cloudinary.com/for-learning-and-training/image/upload/v1654772476/Screen%20Website/screencapture-ramy-cf-2022-06-09-12_50_11_zlbu94.png">
+    <img alt="home" src="https://res.cloudinary.com/for-learning-and-training/image/upload/v1657536930/Screen%20Website/screencapture-127-0-0-1-5500-2022-07-10-19_44_39_pok0fd.png">
 </p>
 
 ## `description`
 
- I'am building a design SARA app.\
- landing page for e-commerce web app .\
+ I'am building a design SARA e-commerce web app .\
  responsive for mobile app.
 
 ## `Tools`
 
+- `html5`
+- `javascript`
+- `css3`
+- `fontawsome`
 
-| ----------------------- |  --------------------------|
-| `html5`                 |  `javascript`              |
-| `css3`                  |  `fontawsome`              |
+## `Features`
 
-## `Useage`
+- Clean & Modern Design.
+- Clean, Unique & Modern Design.
+- Flexible, Customizable & Organized.
+- Free Google Web Fonts.
+- Fully Responsive
+- And much more Fun….
 
-### usage and install
+### `Useage`
 
 - `live server`
    - use extenision like live server in your code editor to run the app.
